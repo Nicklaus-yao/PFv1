@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">PFv1</string>
+    <string-array name="menu_array">
+        <item>Menu</item>
+        <item>Welcome Screen</item>
+        <item>Enter Transaction</item>
+        <item>Transaction History</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
 </resources>
